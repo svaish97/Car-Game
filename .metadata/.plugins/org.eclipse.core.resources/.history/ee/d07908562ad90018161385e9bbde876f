@@ -1,0 +1,18 @@
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.JPanel;
+public class work extends JPanel implements ActionListener{
+	private int space;
+	private int speed;
+	private int WIDTH;
+	private int HEIGHT;
+	
+	@Override
+	public void actionPerformed(ActionEvent arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+
+}
